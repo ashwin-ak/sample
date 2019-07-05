@@ -33,7 +33,7 @@
                 <updatePolicy>always</updatePolicy>
                 <checksumPolicy>fail</checksumPolicy>
             </releases>
-            <id>Experitest.repo1</id>
+            <id>Experitest.repo2</id>
             <name>YourName</name>
             <url>https://cloud.experitest.com/repo/</url>
             <layout>default</layout>
