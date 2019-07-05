@@ -2,8 +2,7 @@
 <suite name="Appium">
 	<test name="testngTest">
 		<classes>
-			<class name="com.ak.sample.SampleTest" />
-			<class name="com.ak.sample.SampleTest2" />
+			<class name="com.ak.sample.Google" />
 		</classes>
 	</test>
 </suite>
